@@ -1,0 +1,64 @@
+#divone{
+    background: url(./images/hero-cover.3.png);
+}
+#navigation{
+    display: flex;
+    flex-direction: row;
+}
+.nav{
+    display: flex;
+}
+.ensure{
+    display: flex;
+    justify-content: center;
+    align-items: column;
+}
+.ensure h2{
+    font-weight: bold;
+    color: white;
+    font-size: 80px;
+    text-align: center;
+}
+.ensure p{
+    font-weight: bold;
+    font-size: 28px;
+    text-align: center;
+}
+#btn1{
+    background-color: #23A6F0;
+    color: white;
+    padding: 15px;
+    border-radius: 25px;
+    width: 200px;
+}
+#btn2{
+    border: solid red;
+    padding: 15px;
+    border-radius: 25px;
+    width: 200px;
+    background-color: #23A6F0;
+}
+
+.tripbox{
+    position: relative;
+    top: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.peace{
+    background-color: white;
+    padding: 20px;
+    width: auto;
+}
+
+.satisfaction{
+    background-color: #23A6F0;
+    padding: 20px;
+    width: auto; 
+}
+#divtwo{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 150px;
+}
