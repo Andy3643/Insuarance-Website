@@ -90,6 +90,20 @@
     width: 900px;
     align-items: center;
 }
+#gradient{
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+}
 .gradient{
-    
+    background-color: hotpink;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    width: 900px;
+    align-items: center;
+
+}
+#newsletter{
+
 }
