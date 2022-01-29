@@ -62,6 +62,9 @@
     justify-content: space-evenly;
     padding: 150px;
 }
+.industry{
+    text-align: center;
+}
 .users{
     display: flex;
     justify-content: space-evenly;
@@ -71,4 +74,19 @@
     border:grey solid 1px;
     padding: 30px;
     border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+#icons{
+    display: flex;
+    justify-content: center;
+}
+.icons{
+    display: flex;
+    justify-content: space-between;
+    width: 900px;
+    align-items: center;
 }
