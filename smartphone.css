@@ -1,0 +1,30 @@
+@media screen and (max-width:600px){
+
+    nav ul li{
+        display: flex;
+        flex-direction: column;
+    }
+    #divone{
+        background: none;
+     
+    }
+
+
+    #btn1{
+        background-color: #ffc508;
+        color: white;
+        padding: 15px;
+        border-radius: 25px;
+        width: 200px;}
+
+
+
+
+
+
+
+
+
+
+
+}
