@@ -104,6 +104,10 @@
     align-items: center;
 
 }
-#newsletter{
-
+#newsletter p{
+    color: white;
+    font-weight: bold;
+}
+.pricing{
+    text-align: center;
 }
