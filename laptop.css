@@ -119,3 +119,9 @@
 .bookappointment{
     background-color: violet;
 }
+#branchmap{
+    display: flex;
+}
+#world{
+    height:250px
+}
