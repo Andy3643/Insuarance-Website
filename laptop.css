@@ -1,12 +1,22 @@
 #divone{
     background: url(./images/hero-cover.3.png);
+ 
 }
-#navigation{
+#Navigation{
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
 }
 .nav{
     display: flex;
+}
+nav ul li{
+    display: inline;
+    padding: 30px;
+}
+#login button, #login p{
+    display: inline;
+    margin: 20px;
 }
 .ensure{
     display: flex;
@@ -30,6 +40,9 @@
     padding: 15px;
     border-radius: 25px;
     width: 200px;
+  
+        
+    
 }
 #btn2{
     border: solid red;
@@ -124,4 +137,18 @@
 }
 #world{
     height:250px
+}
+.filldetails{
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    width: 500px;
+    margin: auto;
+    
+}
+.consulting{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+
 }
