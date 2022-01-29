@@ -111,3 +111,11 @@
 .pricing{
     text-align: center;
 }
+.divs{
+    display: flex;
+    justify-content: center;
+
+}
+.bookappointment{
+    background-color: violet;
+}
