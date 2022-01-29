@@ -62,3 +62,8 @@
     justify-content: space-evenly;
     padding: 150px;
 }
+.users{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 150px;
+}
