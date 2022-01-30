@@ -1,4 +1,4 @@
-@media screen and (max-width:600px){
+@media only screen and (max-width:600px){
 
     nav ul li{
         display: flex;
@@ -8,15 +8,39 @@
         background: none;
      
     }
+    #ensurephone{
+        background-color: violet;
+    }
 
-
-    #btn1{
-        background-color: #ffc508;
-        color: white;
-        padding: 15px;
-        border-radius: 25px;
-        width: 200px;}
-
+    .tripbox{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+    }
+    .peace{
+        width: 50%;
+        align-content: center ;
+        text-align: center;
+    }
+    .satisfaction{
+        width: 50%;
+        align-content: center ;
+        text-align: center;
+    }
+    #divtwo{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .users{
+        display: flex;
+        flex-direction: column;
+    }
+    .icons{
+        display: flex;
+        flex-direction: column;
+    }
 
 
 

@@ -56,15 +56,16 @@ nav ul li{
 
 .tripbox{
     position: relative;
-    top: 100px;
+    top: 110px;
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: space-around;
 }
 .peace{
     background-color: white;
     padding: 20px;
     width: auto;
+    
 }
 
 .satisfaction{
@@ -119,6 +120,30 @@ nav ul li{
     align-items: center;
 
 }
+.free{
+    border: 2px solid #23A6F0;
+    padding: 50px;
+    border-radius: 10px;
+}
+.standard{
+    border: solid 2px #23A6F0;
+    padding: 50px;
+    background-color: #252B42;
+    color: white;
+    border-radius: 10px;
+}
+.premium{
+    border: solid 2px #23A6F0;
+    padding: 50px;
+    border-radius: 10px;
+}
+.fa-check-circle{
+    color: green;
+}
+.exclude{
+    color: grey;
+}
+
 #newsletter p{
     color: white;
     font-weight: bold;
@@ -132,10 +157,18 @@ nav ul li{
 
 }
 .bookappointment{
-    background-color: violet;
+    background-color: #252B42;
+    padding: 100px 200px 100px 200px;
+    color: white;
 }
 #branchmap{
     display: flex;
+}
+#branchmap h2{
+    font-size: 40px;
+}
+#branchmap p{
+    font-size: 20px;
 }
 #world{
     height:250px
