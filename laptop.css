@@ -171,7 +171,7 @@ nav ul li{
     font-size: 20px;
 }
 #world{
-    height:250px
+    height: 200px;
 }
 .filldetails{
     display: flex;
@@ -183,7 +183,11 @@ nav ul li{
 }
 .consulting{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     flex-direction: row;
 
+}
+.footer{
+    display:flex;
+    justify-content:center;
 }

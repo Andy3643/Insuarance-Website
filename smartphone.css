@@ -3,13 +3,23 @@
     nav ul li{
         display: flex;
         flex-direction: column;
+        background-color: white;
+        font-size: 30px;
+    }
+    nav ul{
+        padding: 50px 0 50px 0;
+    }
+    #Navigation{
+        background-color:rgb(255, 255, 255);
     }
     #divone{
-        background: none;
+        background-size:cover;
+        background-position-x: -1195px;
      
     }
     #ensurephone{
         background-color: violet;
+        height: auto;
     }
 
     .tripbox{
@@ -36,12 +46,55 @@
     .users{
         display: flex;
         flex-direction: column;
+        padding: 20px;
+    }
+    .user1{
+        margin: 30px;
+        width: 300px;
     }
     .icons{
         display: flex;
         flex-direction: column;
     }
+    .divs{
+        display: flex;
+        flex-direction: column;
+    }
+    .bookappointment{
+        display: flex;
+        flex-direction: column;
+    }
+    #branchmap{
+        display: flex;
+        flex-direction: column;
+    }
+    .bookappointment{
+        padding: 100px 50px 100px 50px;
+    }
+    .filldetails{
+        display: flex;
+        flex-direction: column;
+        width: auto;
+        align-items: center;
+        width: 400px;
+    }
+    .consulting{
+        display: block;
+        align-items: center;
+    }
+    .footer{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
 
+
+
+
+
+
+    
+    
 
 
 
