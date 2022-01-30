@@ -9,16 +9,30 @@
     flex-direction: row;
     justify-content: space-between;
 }
+#Navigation h1{
+    color: white;
+}
 .nav{
     display: flex;
 }
 nav ul li{
     display: inline;
     padding: 30px;
+    color: white;
+}
+#login{
+    display: flex;
+}
+#login button{
+    background-color: #23A6F0;
+    width: 200px;
+    border: none;
+    border-radius: 20px;
 }
 #login button, #login p{
     display: inline;
     margin: 20px;
+    color: white;
 }
 .ensure{
     display: flex;
@@ -35,6 +49,7 @@ nav ul li{
     font-weight: bold;
     font-size: 28px;
     text-align: center;
+    color: white;
 }
 #btn1{
     background-color: #23A6F0;
@@ -52,9 +67,10 @@ nav ul li{
     border-radius: 25px;
     width: 200px;
     background: transparent;
+    color: white;
 }
 
-.tripbox{
+.tripboxx{
     position: relative;
     top: 110px;
     display: flex;
@@ -71,7 +87,7 @@ nav ul li{
 .satisfaction{
     background-color: #23A6F0;
     padding: 20px;
-    width: auto; 
+    width: auto; color: white;
 }
 #divtwo{
     display: flex;
@@ -111,8 +127,8 @@ nav ul li{
     justify-content: center;
     padding: 100px;
 }
-.gradient{
-    background-color: hotpink;
+.gradientt{
+   background-image: linear-gradient(to right, #034588, #d35088);
     display: flex;
     justify-content: space-around;
     flex-direction: row;
@@ -137,6 +153,57 @@ nav ul li{
     padding: 50px;
     border-radius: 10px;
 }
+.free button{
+    background-color: #23A6F0;
+    width: 200px;
+    height: 35px;
+    border: none;
+    border-radius: 15px;
+    color: white;
+}
+.standard button{
+    background-color: #23A6F0;
+    width: 200px;
+    height: 35px;
+    border: none;
+    border-radius: 15px;
+    color: white;
+}
+.premium button{
+    background-color: #23A6F0;
+    width: 200px;
+    height: 35px;
+    border: none;
+    border-radius: 15px;
+    color: white;
+
+}
+.premium h5{
+    color: #23A6F0;
+}
+.premium h4{ 
+    color: #23A6F0;}
+    .premium h3{
+        color: #23A6F0;
+    }
+.standard h3{
+    color: #23A6F0;
+}
+.standard h4{
+    color: #23A6F0;
+}
+.standard h5{
+    color: #23A6F0;
+}
+.free h3{
+    color: #23A6F0;
+}
+.free h4{
+    color: #23A6F0;
+}
+.free h5{
+    color: #23A6F0;
+}
 .fa-check-circle{
     color: green;
 }
@@ -160,6 +227,7 @@ nav ul li{
     background-color: #252B42;
     padding: 100px 200px 100px 200px;
     color: white;
+    bac
 }
 #branchmap{
     display: flex;
@@ -176,10 +244,23 @@ nav ul li{
 .filldetails{
     display: flex;
     justify-content: center;
-    background-color: blue;
-    width: 500px;
+    background-color: rgb(255, 255, 255);
+    width:500px;
     margin: auto;
     
+}
+.fampic{
+    width: 30%;
+}
+.fillist{
+    width: 70%;
+    color: black;
+}
+.fillist button{
+    color: white;
+    background-color: #23A6F0;
+    border: solid 3px #23A6F0;
+    border-radius: 10px;
 }
 .consulting{
     display: flex;
