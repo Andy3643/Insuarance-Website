@@ -63,6 +63,19 @@
     .divs{
         display: flex;
         flex-direction: column;
+        justify-content: center;
+    }
+    .premium{
+        width: auto;
+        margin: 70px;
+    }
+    .standard{
+        width: auto;
+        margin: 70px;
+    }
+    .free{
+        width: auto;
+        margin: 70px;
     }
     .bookappointment{
         display: flex;
@@ -80,8 +93,7 @@
         flex-direction: column;
         width: auto;
         align-items: center;
-        width: 400px;
-    }
+        width: 400px
     .consulting{
         display: block;
         align-items: center;
@@ -98,7 +110,7 @@
         align-items: center;
     }
     .newsletter{
-        
+
     }
 
 

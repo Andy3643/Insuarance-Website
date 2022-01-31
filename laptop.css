@@ -136,6 +136,13 @@ nav ul li{
     align-items: center;
 
 }
+#newsletter{
+    text-align: center;
+}
+.gradientt button{
+    color: white;
+    background-color: #23A6F0;
+}
 .free{
     border: 2px solid #23A6F0;
     padding: 50px;
@@ -227,7 +234,6 @@ nav ul li{
     background-color: #252B42;
     padding: 100px 200px 100px 200px;
     color: white;
-    bac
 }
 #branchmap{
     display: flex;
@@ -262,11 +268,27 @@ nav ul li{
     border: solid 3px #23A6F0;
     border-radius: 10px;
 }
+#consulting{
+    width: 1000px;
+    position:  relative; left: 200px;
+}
 .consulting{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     flex-direction: row;
 
+
+}
+#consultbutton{
+    padding: 30px 0 0 0;
+}
+#consultbutton button{
+    background-color: #23A6F0;
+    border: none;
+    width: 170px;
+    height: 35px;
+    color: white;
+    border-radius: 15px;
 }
 .footer{
     display:flex;
