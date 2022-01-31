@@ -1,7 +1,6 @@
 @media only screen and (max-width:600px){
 
 
-    }
     nav ul li{
         display: flex;
         flex-direction: column;
@@ -14,7 +13,7 @@
     
     }
     #Navigation{
-        background-color:rgb(107, 7, 7);
+        background-color:rgb(255, 255, 255);
         color: black;
     }
     #Navigation h1{ color: black;}
@@ -25,6 +24,16 @@
     }
     #login button{
         display: none;
+    }
+    .phoneicons{
+        display: inline;
+        justify-content: space-evenly;
+    }
+    .fa-search{
+        width: 50px;
+    }
+    .fa-cart-plus{
+        width: 50px;
     }
 
     .tripbox{
@@ -119,7 +128,7 @@
         display: none;
     }
     #world{
-        width: 80px;
+        width: 400px;
     }
 
 

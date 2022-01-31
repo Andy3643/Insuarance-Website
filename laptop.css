@@ -29,6 +29,9 @@ nav ul li{
     border: none;
     border-radius: 20px;
 }
+.phoneicons{
+    display: none;
+}
 #login button, #login p{
     display: inline;
     margin: 20px;
@@ -254,6 +257,7 @@ nav ul li{
     background-color: rgb(255, 255, 255);
     width:500px;
     margin: auto;
+    
     
 }
 .fampic{
