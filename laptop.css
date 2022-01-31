@@ -314,12 +314,22 @@ nav ul li{
     list-style: none;
     font-size:  20px;
 }
-.companyinfo{
 
-}
-.legal{
-  
-}
 .icons2{
     color: #23A6F0;
+}
+.companyinfo{
+    margin: 20px;
+}
+.legal{
+    margin: 20px;
+}
+.features{
+    margin: 20px;
+}
+.resources{
+    margin: 20px;
+}
+.getintouch{
+    margin: 20px;
 }
