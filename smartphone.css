@@ -118,6 +118,30 @@
         justify-content: center;
         flex-direction: column;
     }
+    #img1{
+        height: 50px;
+        margin: 20px;
+    }
+    #img2{
+        height: 50px;
+        margin: 20px;
+    }
+    #img3{
+        height: 50px;
+        margin: 20px;
+    }
+    #img4{
+        height: 50px;
+        margin: 20px;
+    }
+    #img5{
+        height: 50px;
+        margin: 20px;
+    }
+    #img6{
+        height: 50px;
+        margin: 20px;
+    }
     .gradientt{
         display: flex;
         flex-direction: column;
@@ -130,8 +154,6 @@
     #world{
         width: 400px;
     }
-
-
 
 
 
