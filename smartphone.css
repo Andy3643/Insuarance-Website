@@ -1,21 +1,30 @@
 @media only screen and (max-width:600px){
 
+
+    }
     nav ul li{
         display: flex;
         flex-direction: column;
         background-color: white;
         font-size: 30px;
+        color: black;
     }
     nav ul{
         padding: 50px 0 50px 0;
+    
     }
     #Navigation{
-        background-color:rgb(255, 255, 255);
+        background-color:rgb(107, 7, 7);
+        color: black;
     }
+    #Navigation h1{ color: black;}
     #divone{
         background-size:cover;
         background-position-x: -1195px;
      
+    }
+    #login button{
+        display: none;
     }
 
     .tripbox{
@@ -94,9 +103,6 @@
         width: auto;
         align-items: center;
         width: 400px
-    .consulting{
-        display: block;
-        align-items: center;
     }
     .footer{
         display: flex;
@@ -109,9 +115,13 @@
         justify-content: center;
         align-items: center;
     }
-    .newsletter{
-
+    .consulting{
+        display: none;
     }
+    #world{
+        width: 80px;
+    }
+
 
 
 
