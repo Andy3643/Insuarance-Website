@@ -294,3 +294,32 @@ nav ul li{
     display:flex;
     justify-content:center;
 }
+.companyinfo ul{
+    list-style: none;
+    font-size: 20px;
+}
+.legal ul{
+    list-style: none;
+    font-size: 20px; 
+}
+.features ul{
+    list-style: none;
+    font-size: 20px;
+}
+.resources ul{
+    list-style: none;
+    font-size: 20px;
+}
+.getintouch ul{
+    list-style: none;
+    font-size:  20px;
+}
+.companyinfo{
+
+}
+.legal{
+  
+}
+.icons2{
+    color: #23A6F0;
+}
