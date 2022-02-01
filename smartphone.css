@@ -160,7 +160,31 @@
         align-items: center;
 
     }
-
+    .free button{
+        background-color: #23A6F0;
+        width: auto;
+        height: 35px;
+        border: none;
+        border-radius: 15px;
+        color: white;
+    }
+    .standard button{
+        background-color: #23A6F0;
+        width:auto;
+        height: 35px;
+        border: none;
+        border-radius: 15px;
+        color: white;
+    }
+    .premium button{
+        background-color: #23A6F0;
+        width: auto;
+        height: 35px;
+        border: none;
+        border-radius: 15px;
+        color: white;
+    
+    }
 
 
 
