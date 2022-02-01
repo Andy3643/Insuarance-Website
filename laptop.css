@@ -306,6 +306,7 @@ nav ul li{
 .footer{
     display:flex;
     justify-content:center;
+    background-color: white;
 }
 .companyinfo ul{
     list-style: none;
@@ -348,4 +349,8 @@ nav ul li{
 }
 .phonelist{
     display: none;
+}
+#divthree{
+    background-color: rgb(245, 245, 245);
+    padding: 60px;
 }
