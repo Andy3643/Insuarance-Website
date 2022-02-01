@@ -1,5 +1,5 @@
 #divone{
-    background: url(./images/hero-cover.3.png);
+    background:linear-gradient( rgba(0,0,0,0.4),rgba(0,0,0,0.4) ),url(./images/hero-cover.3.png);
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
@@ -344,4 +344,7 @@ nav ul li{
 }
 .getintouch{
     margin: 20px;
+}
+.phonelist{
+    display: none;
 }
