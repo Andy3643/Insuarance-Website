@@ -10,7 +10,8 @@
 + [Licence](Licence)
 
 ### Insurance Website
-![screenshot](<img src=Images/Andypic.png>")
+
+![screenshot](./images/andypic.png)
 
 ### Description
 This website is designed for an insurance comapany. The website will act as  a marketing platform for the company. It will provide clients with a friendly user interfae for them to be able to access fast, and quality services remotely, saving them the cost of having to move from office to office. The website will also enable the company have a wider market base as they can register new clients.
